@@ -27,3 +27,7 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
+# config
+aws-auth-patch.yml
+iam-role-policy
